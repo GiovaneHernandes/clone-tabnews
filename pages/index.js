@@ -1,5 +1,9 @@
-function Home(){
-    return <h1>Hellow World!!!!</h1>
+function Home() {
+  return <h1>Hellow World!!!!</h1>;
 }
 
-export default Home; 
+function Teste() {
+  console.log("Erro");
+}
+
+export default Home | Teste;
